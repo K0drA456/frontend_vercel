@@ -1,0 +1,36 @@
+.proyectos-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.proyectos-list {
+    list-style: none;
+    padding: 0;
+}
+
+.proyecto-item {
+    background-color: #333333;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.proyecto-item:hover {
+    background-color: #444444;
+}
+
+.proyecto-link {
+    font-size: 1.2em;
+    color: #008cff;
+    text-decoration: none;
+}
+
+.proyecto-link:hover {
+    text-decoration: underline;
+}

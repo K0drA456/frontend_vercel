@@ -1,0 +1,38 @@
+.crear-proyecto-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.proyecto-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+}
+
+.proyecto-textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+}
+
+.proyecto-boton {
+    padding: 10px 20px;
+    background-color: #008cff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.proyecto-boton:hover {
+    background-color: #0073e6; /* Color al pasar el mouse */
+}

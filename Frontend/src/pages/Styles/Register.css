@@ -1,0 +1,36 @@
+/* src/pages/Styles/Register.css */
+/* *{
+    border: 1px red solid;
+} */
+
+.register-container {
+    max-width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: 50px auto;
+    color: #ffffff;
+    background-color: #1a1a1a; 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.register-container input {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    width: 60%;
+}
+
+.register-container button {
+    padding: 10px 30px;
+    background-color: #008cff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.register-container p {
+    margin-top: 10px;
+    color: #fff;
+}
